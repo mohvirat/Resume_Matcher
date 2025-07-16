@@ -3,3 +3,4 @@ pandas
 PyMuPDF
 python-docx
 PyPDF2
+sklearn
