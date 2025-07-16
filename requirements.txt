@@ -2,3 +2,4 @@ streamlit
 pandas
 PyMuPDF
 python-docx
+PyPDF2
